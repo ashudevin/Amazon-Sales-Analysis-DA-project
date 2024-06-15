@@ -16,7 +16,3 @@ Created a comprehensive dashboard featuring:
 - **Fulfillment Metrics:** Graphs on processing times and shipping costs.
 - **Customer Segmentation:** Segmented customer profiles for targeted marketing.
 
-### Conclusion
-This project provides valuable insights to enhance various business aspects, with the Power BI Dashboard enabling continuous monitoring and decision-making.
-
----
