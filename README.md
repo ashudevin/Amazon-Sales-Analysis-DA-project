@@ -1,7 +1,3 @@
-Sure! Here is a shorter version for your GitHub README:
-
----
-
 ## Amazon Data Analysis Project
 
 ### Overview
