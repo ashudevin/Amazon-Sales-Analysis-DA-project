@@ -4,10 +4,10 @@
 This project aims to optimize business operations, enhance customer experience, and drive revenue growth by analyzing sales, product performance, fulfillment processes, and customer segmentation.
 
 ### Key Analyses
-- **Sales Analysis:** Identified key revenue drivers and peak sales periods for better inventory and marketing strategies.
-- **Product Analysis:** Evaluated product performance to highlight best-selling items and areas for improvement.
-- **Fulfillment Analysis:** Optimized order processing and shipping to reduce costs and improve efficiency.
-- **Customer Segmentation:** Developed targeted marketing strategies by understanding distinct customer groups.
+- **Sales Analysis:** 
+- **Product Analysis:** 
+- **Fulfillment Analysis:** 
+- **Customer Segmentation:** 
 
 ### Power BI Dashboard
 Created a comprehensive dashboard featuring:
